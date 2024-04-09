@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076306067946",
+    "project_id": "space-gym-463b5",
+    "storage_bucket": "space-gym-463b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076306067946:android:cb9faa2c0ad0e0c9eef293",
+        "android_client_info": {
+          "package_name": "com.example.spacegym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076306067946-jbp1nmcipmmuhh175eb964fj1chq7tbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr0z7FV-pcoRuzYDyeKdyXXhpF_olHBJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076306067946-jbp1nmcipmmuhh175eb964fj1chq7tbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
